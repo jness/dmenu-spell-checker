@@ -18,3 +18,5 @@ spell checker.
 By placing `spell.sh` in `/usr/local/bin` you can
 easily call this utility from dmenu it self.
 
+![Alt text](example.gif)
+

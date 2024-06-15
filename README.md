@@ -1,4 +1,4 @@
-# dictionary
+#  dmenu-spell-checker
 
 Word list provided by WordNet
 https://wordnet.princeton.edu/download/current-version
